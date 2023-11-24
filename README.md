@@ -29,3 +29,5 @@ planetário o nome da cidade pode se confundir com o nome de cidades de outros p
 * Eles me acompanharam do inicio ao fim deste projeto, didática impecável e muita pasciência para nos ajudar na  compreenção de todas as etapas do desenvolvimento web.
 * Muito Obrigado "meninos".
 * 🖖 "Vida longa e próspera!" 🖖
+
+* ## [GithubPages](https://josuecosta2023.github.io/app-previsaoTempo/)
